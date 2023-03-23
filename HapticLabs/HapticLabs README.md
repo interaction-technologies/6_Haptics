@@ -1,3 +1,4 @@
+# HapticsLab.io Educational Toolkit Readme
 
 ## DOWNLOAD LINKS
 
